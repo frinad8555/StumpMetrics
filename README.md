@@ -18,8 +18,8 @@ This system is built to centralize and manage cricket-related data, support perf
 
 ## Technologies Used
 
-- **Database**: MySQL
-- **Tools**: SQL Workbench / phpMyAdmin
+- **Database**: PostgreSQL
+- **Tools**: pgAdmin
 - **Design**: ER & Relational Diagram (Draw.io)
 - **Query Language**: SQL (DDL + DML), Relational Algebra
 
