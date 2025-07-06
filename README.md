@@ -43,8 +43,6 @@ Queries include:
 - Venue and match analytics
 - Historical player stats
 
-📄 [`Queries.pdf`](./Queries.pdf)
-
 ---
 
 ## Sample Query Output
